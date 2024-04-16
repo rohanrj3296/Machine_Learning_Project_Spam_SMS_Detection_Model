@@ -12,3 +12,5 @@ Algorithm(accuracy=98.44%),Logistic Regression(accuracy=98.08%) and Support Vect
 To calculate the accuracy of model I have divided the dataset into Training and Testing set with 85:15 ratio
 
 I have selected Multinomial Naive Bayes Classification Algorithm , Because it is accurate to 98.44%
+
+To get the spam SMS detection models with other classification algorithms , refer to spam_SMS_classification Models file
