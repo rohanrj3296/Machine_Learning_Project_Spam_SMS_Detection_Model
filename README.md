@@ -13,4 +13,4 @@ To calculate the accuracy of model I have divided the dataset into Training and 
 
 I have selected Multinomial Naive Bayes Classification Algorithm , Because it is accurate to 98.44%
 
-To get the spam SMS detection models with other classification algorithms , refer to spam_SMS_classification Models file
+To get the spam SMS detection models with other classification algorithms , refer to Other_spam_SMS_classification Models file
